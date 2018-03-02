@@ -69,3 +69,7 @@ $review_instance = new VS_WP_Review_Me(array(
     'notice_callback' => 'your_plugin_review_notice_add'
 ));
 ```
+### Sample Output
+[![View 1](https://raw.githubusercontent.com/varunsridharan/vs-wp-review-me/master/screenshot-1.jpg)](https://raw.githubusercontent.com/varunsridharan/vs-wp-review-me/master/screenshot-1.jpg)
+
+[![View 1](https://raw.githubusercontent.com/varunsridharan/vs-wp-review-me/master/screenshot-2.jpg)](https://raw.githubusercontent.com/varunsridharan/vs-wp-review-me/master/screenshot-2.jpg)
