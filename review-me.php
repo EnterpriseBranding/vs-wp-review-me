@@ -4,6 +4,8 @@
  * User: varun
  * Date: 02-03-2018
  * Time: 03:15 PM
+ * @copyright GPLV3
+ * @author Varun Sridharan <varunsridharan23@gmail.com>
  */
 
 if( ! defined("WPINC") ) {
